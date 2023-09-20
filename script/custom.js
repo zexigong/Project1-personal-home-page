@@ -1,4 +1,4 @@
-// An original JS functionality: Display a welcome message based on the time of the day
+// Display a welcome message based on the time of the day
 const currentTime = new Date().getHours();
 let welcomeMessage = '';
 
