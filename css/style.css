@@ -99,15 +99,16 @@ body {
 .contact-photo {
   border-radius: 50%;
   overflow: hidden;
-  width: 30px;
-  height: 30x;
+  width: 150px;
+  height: 150x;
   margin: 0 auto 20px;
 }
 
 .contact-photo img {
   border-radius: 50%;
-  width: 30px;
-  height: 30x;
+  width: 150px;
+  height: 150x;
+  text-align: left;
 }
 
 .navbar a:hover {
